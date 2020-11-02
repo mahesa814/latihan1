@@ -9,5 +9,6 @@ kelas
 pelajaran
 hari ini
 olahraga
+aku ingin belajar ini
 
 
