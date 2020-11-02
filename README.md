@@ -15,3 +15,4 @@ aku ingin belajar ini
 gitk
 git format patch 
 git belajar
+belajar
