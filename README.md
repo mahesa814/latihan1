@@ -6,3 +6,7 @@ nama saya
 mahesa
 
 kelas
+pelajaran
+
+olahraga
+
