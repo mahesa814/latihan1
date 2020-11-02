@@ -10,4 +10,4 @@ pelajaran
 hari ini
 olahraga
 
-
+pagi ini cerah
