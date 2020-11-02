@@ -7,6 +7,7 @@ mahesa
 
 kelas
 pelajaran
-
+hari ini
 olahraga
+
 
