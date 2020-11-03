@@ -17,3 +17,4 @@ git format patch
 git belajar
 belajar
 kata sandi github = mahesafajar123
+saya hari ini
