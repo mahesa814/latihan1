@@ -10,6 +10,7 @@ pelajaran
 hari ini
 olahraga
 aku ingin belajar ini
+git revert
 
 
 gitk
