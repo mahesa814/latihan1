@@ -6,6 +6,7 @@ nama saya
 mahesa
 
 kelas
+aku
 
 
 saya belom makan siang
